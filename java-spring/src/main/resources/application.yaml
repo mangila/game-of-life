@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: gameoflife-java-spring
+  web:
+    resources:
+      add-mappings: false
+  threads:
+    virtual:
+      enabled: true
